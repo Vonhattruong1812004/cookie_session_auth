@@ -84,8 +84,7 @@ Sau khi đã cài đặt thư viện (`npm install`) và chạy ứng dụng (`n
 ### Kiểm tra sessions trên MongoDB sau khi đăng nhập
 ![mongodb_session_login](public/results/mongodb_session_login.png)
 
-### Kiểm tra sessions trên MongoDB sau khi đăng xuất
-![mongodb_session_logout](public/results/mongodb_session_logout.png)
+
 
 ---
 
